@@ -1,0 +1,3 @@
+[submodule "sub_u"]
+	path = sub_u
+	url = https://github.com/And-Git/sub_ui.git
